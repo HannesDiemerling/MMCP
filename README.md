@@ -37,7 +37,3 @@ The repository will be updated as the project progresses. Future development pla
 
 * Implementing the code for a the full pipeline.
 * Training and publishing the prediction model.
-  
-**Citation:**
-
-If you find this research project relevant to your work, please consider citing the associated article submitted to the International Conference on Multimodal Interaction (ICMI). 
